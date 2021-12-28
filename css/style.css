@@ -155,7 +155,7 @@ p {
 
 /* Showcase */
 #showcase {
-    background: url("./img/he.jpg") no-repeat center center/cover;
+    background: url("./img/main_bacground.jpg") no-repeat center center/cover;
     height: 650px;
 }
 
@@ -203,7 +203,7 @@ p {
 #who .who-img {
     width: 40%;
     float: left;
-    background: url("./img/second.jpg") center/cover;
+    background: url("./img/article.jpg") center/cover;
     height: 400px;
 }
 
